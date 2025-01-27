@@ -1,6 +1,6 @@
 body {
     font-family: 'Yugioh', serif;
-    background: url(/src/imagens/fundo-site.jpg);
+    background-image: url(../imagens/fundo-site.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -59,7 +59,7 @@ body {
 .cartao .estrela {
     width: 20px;
     height: 20px;
-    background: url(/src/imagens/nivel-carta.png);
+    background-image: url(../imagens/nivel-carta.png);
     background-size: contain;
     background-repeat: no-repeat;
     display: inline-block;
